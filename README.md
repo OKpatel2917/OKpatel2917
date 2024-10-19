@@ -1,3 +1,4 @@
+![logo](https://github.com/okpatel2055/okpatel2055/blob/main/github%20om.png)
 <h1 align="center">Hi 👋, I'm Om Patel</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
