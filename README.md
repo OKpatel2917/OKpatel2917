@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okpatel2055&label=Profile%20views&color=0e75b6&style=flat" alt="okpatel2055" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap (Framework)**
+- 🌱 I’m currently learning **FrontEnd Technologies**
 
 - 💬 Ask me about **Frontend Languages**
 
